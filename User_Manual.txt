@@ -1,5 +1,7 @@
 MasSafe is a Finance Management Mobile Application. Users will be asked to create a profile for their personal use. The main page of the application will contain the user's current balance alongside the banks they frequently use. Their card information will also be used. The use of Cash-in/Cash-out methods such as Gcash and Paymaya will also be implemented. They will also be supplied with a history of their transactions, containing date, amount, bank used, and location of transaction.
 
+Submission Links:
+
 Figma Link: https://www.figma.com/design/PfzCK0Ngwa3fWRz10P3sOM/MasSafe-Prototype?node-id=0-1&t=OCi4TDbXrKS6V9XQ-0
 
 Part 1: https://malayancollegesmindanaoo365-my.sharepoint.com/:w:/g/personal/jbcerbo_mcm_edu_ph/EZTj0EpU2INOm1hPxmpRbKEBjgZ9wCpYw46aRV_dT8LTcQ?e=WSi37x
