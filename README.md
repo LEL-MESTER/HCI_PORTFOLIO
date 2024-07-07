@@ -5,7 +5,7 @@ This is the HCI Portfolio for Team MaCeVi! It showcases the application "MasSafe
 
 # ***Team Logo:***
 
-![image](https://github.com/LEL-MESTER/HCI_PORTFOLIO/blob/799e419ea446a943c918f5237230e789c158dc4b/Assets/Team%20MaCeVi%20Logo.png)
+![team logo (MaCeVi or abbreviated as MCV)](https://github.com/LEL-MESTER/HCI_PORTFOLIO/blob/799e419ea446a943c918f5237230e789c158dc4b/Assets/Team%20MaCeVi%20Logo.png)
 
 
 
@@ -28,7 +28,7 @@ This is the HCI Portfolio for Team MaCeVi! It showcases the application "MasSafe
 
 # ***Application Logo:***
 
-![image](https://github.com/FFernMZ01/HCI_PORTFOLIO/assets/150443239/54c4ec18-29c2-4c5a-9492-b0d58ad1abb3)
+![Application Logo (MasSafe)](https://github.com/LEL-MESTER/HCI_PORTFOLIO/blob/4e7ae3cca91eae83531ea4b54b119ccfe4319a8f/Assets/MasSafe%20App%20Logo.png)
 
 * #### The logo is meant to represent a government building, which is built upon the letters “M” and “A”.
 * #### In the middle, the letter “S” is located, which represents a Safe, if we combine these three letters we form “Mas”, which means “More” in Spanish and Filipino.
